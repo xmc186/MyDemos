@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConstellationInfo", "ConstellationInfo\ConstellationInfo.pyproj", "{4BEC311F-059B-4820-82B6-3BC2F41B32FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Weather", "Weather\Weather.pyproj", "{2AF74FDC-00DC-4AE5-8CE6-75BFEE484D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BEC311F-059B-4820-82B6-3BC2F41B32FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEC311F-059B-4820-82B6-3BC2F41B32FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF74FDC-00DC-4AE5-8CE6-75BFEE484D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF74FDC-00DC-4AE5-8CE6-75BFEE484D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
