@@ -1,1 +1,1 @@
-完成安装git hub
+set up git hub finish
